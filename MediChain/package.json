@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.21.0",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.20",
+    "react-chrono": "^2.6.1"
+  }
+}
